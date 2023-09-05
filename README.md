@@ -6,9 +6,11 @@ development.
 #### Objective
 
 Design and implement a simple to-do list application that allows users to manage their tasks efficiently.
-Use the starter code which includes the following:
+The deliverable should be a public github repo.
 
-- [Bootstrap](https://getbootstrap.com/) - Baseline Styles
+Leverage the starter code which includes the following:
+
+- [Bootstrap](https://getbootstrap.com/) - Baseline Styles / JS Components
 - [Font Awesome](https://fontawesome.com/) - Icons
 - [Vue.js](https://vuejs.org/) - JS Framework
 
@@ -28,4 +30,5 @@ Use the starter code which includes the following:
    1. The user should not be able to create a task without a title.
 5. Bonus Feature
    1. Show a confirmation message before deleting a task.
-   2. Add ability to edit a task's title.
+   2. Add ability to edit a task's title. 
+   3. Use github pages to host the project.
